@@ -1,2 +1,10 @@
 В удаленной ветке demo в файле README в первой строчке дописано следующее:
 with nice buttons on his jacket (buttons branch)
+Коммиты:
+1) init
+2) README added
+3) fix readme
+4) heat added
+5) boots
+6) dots
+7) Added hometask.txt
