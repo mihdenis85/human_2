@@ -1,0 +1,2 @@
+В удаленной ветке demo в файле README в первой строчке дописано следующее:
+with nice buttons on his jacket (buttons branch)
